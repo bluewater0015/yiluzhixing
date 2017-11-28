@@ -1,0 +1,71 @@
+
+/*style:header*/
+.header{
+    width: 100%;
+    height: 100px;
+    background-color: #f2f2f2;
+    overflow: hidden;
+}
+.logo-box{
+    float: left;
+    width: 40%;
+    height: inherit;
+}
+.word-box{
+    float: left;
+    width: 60%;
+    height: inherit;
+}
+
+
+
+/*style:nav*/
+.nav{
+    width: 100%;
+    height: 50px;
+    background-color: #3688ff;
+}
+.item{
+    display: inline-block;
+    padding: 0 20px;
+    color: #ffffff;
+    height: 50px;
+    line-height: 50px;
+}
+.item:hover{
+    background-color: #00FFFF;
+    color: red;
+}
+/*style:banner*/
+.banner{
+    width: 100%;
+    height: 400px;
+}
+.swiper{
+    width: 100%;
+    height: inherit;
+    position: relative;
+}
+.wrapper{
+    overflow: hidden;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.wrapper slide{
+    float: left;
+}
+.swiper img{
+    width: 100%;
+    height: inherit;
+}
+
+
+
+/*style:footer*/
+.footer{
+    width: 100%;
+    height: 200px;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+}

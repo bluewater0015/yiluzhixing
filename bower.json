@@ -1,0 +1,23 @@
+{
+  "name": "bluecatwebsite",
+  "description": "website",
+  "main": "index.js",
+  "authors": [
+    "mapbar_front"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "website"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}

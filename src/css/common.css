@@ -1,0 +1,18 @@
+html,body,ul,li{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+body{
+    min-width: 1200px;
+}
+
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.alignCenter{
+    display: flex;
+    align-items: center;
+}
